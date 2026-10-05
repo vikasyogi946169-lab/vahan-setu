@@ -1,0 +1,6 @@
+{
+  "name": "VAHAN SETU – India's Smart Transport & Logistics Platform",
+  "description": "भारत – ट्रांसपोर्ट का नया सेतु | Smart goods transport, truck booking, live GPS tracking, driver verification, and fleet management platform across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
