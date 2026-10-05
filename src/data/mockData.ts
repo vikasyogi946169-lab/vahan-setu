@@ -13,7 +13,7 @@ export const VEHICLE_CATEGORIES: VehicleCategory[] = [
     capacityText: '750 KG Payload',
     capacityKg: 750,
     dimensions: '7.2ft x 4.8ft x 4.0ft',
-    baseFare: 450,
+    baseFare: 500,
     perKmRate: 22,
     description: 'Perfect for local city delivery, retail goods, e-commerce cartons and intra-city shifting.',
     hindiDescription: 'स्थानीय शहर डिलीवरी, खुदरा माल, ई-कॉमर्स कार्टन और घरेलू सामान के लिए सर्वोत्तम।',
